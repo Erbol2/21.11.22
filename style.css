@@ -1,3 +1,18 @@
 * {
   box-sizing: border-box;
 }
+.container{
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.396);
+  margin: 45px;
+  padding:20px 25px;
+  display: flex;
+}
+.box {
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.274);
+  padding: 10px;
+  
+}
+.blue {
+  background-color: rgb(55, 55, 239);
+}
